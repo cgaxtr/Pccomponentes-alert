@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PC Componentes alert</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register_login">Don't have an Account?</string>
+</resources>
